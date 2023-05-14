@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![chaemj97's github stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true)
+![chaemj97's github stats](https://github-readme-stats.vercel.app/api?username=chaemj97&show_icons=true)
 
 <!--
 
