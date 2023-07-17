@@ -2,21 +2,27 @@
 ### 👋 Hi there, I'm Min-Ji. 
 
 <h3>😊 About Me</h3>
+
 <div>
+ <a href="https://www.notion.so/0924c3d52b5d4f518461a33d11735b56">
+    <img src="https://img.shields.io/badge/-Portfolio-00ff00?style=for-the-badge&logo=People&logoColor=white"/>
+  </a>
+</div>
+<!--
+<a href="https://chaemi720.tistory.com/">
+    <img src="https://img.shields.io/badge/-Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
+  </a>
+  
   <a href="mailto:dearsyjang@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:chaemj97@gmail.com.com""/>
   </a>
-  <a href="https://chaemi720.tistory.com/">
-    <img src="https://img.shields.io/badge/-Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
-  </a>
-</div>
-                                                                                                         
+  --!>                                                                                                         
 
 ### 🌱 Education
 | 이름                                            | 내용                          | 기간                          |
 | ----------------------------------------------- | ----------------------------- | ----------------------------- |
-| 삼성 청년 소프트웨어 아카데미 SSAFY<br>(Samsung Software Academy for Youth) | 7기 Python Track | 2022.01 ~ 2022. 12 |
-| 네이버 부스트캠프 AI TECH | 5기 RecSys Track | 2023.03 ~  |             
+| 삼성 청년 소프트웨어 아카데미 SSAFY<br>(Samsung Software Academy for Youth) | 7기 Python Track | 2022.01 ~ 2022.12 |
+| 네이버 부스트캠프 AI TECH | 5기 RecSys Track | 2023.03 ~ 2023.08 |             
                                                                                                          
 ### 💻 Projects 
 | 이름                                            | 내용                          | 기간                          | 역할 |
@@ -26,6 +32,7 @@
 | [나랏말싸피](https://github.com/chaemj97/Project-Na-Rat-Mal-Ssafy) | 손글씨를 폰트로 만들어 주는 서비스 | 2022.10.11. ~ 2022.11.18. (6주) | AI |
 | 책 평점 예측 | 책 평점 예측 | 2023.04.10 ~ 2023.04.20 (2주) | DATA/AI |  
 | [DKT](https://github.com/boostcampaitech5/level2_dkt-recsys-10) | Deep Knowledge Tracing | 2023.05.03 ~ 2023.05.25 (4주) | DATA/AI |
+| [Yammer 데이터 분석](https://www.notion.so/Yammer-9ecc85a2cd824ff18d9e094f317147a3) | SQL 데이터 분석 | 2023.06.05 ~ 2023.06.30 (4주) | DATA |
 <br>
 
                                                                                                          
