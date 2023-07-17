@@ -5,7 +5,7 @@
 
 <div>
  <a href="https://www.notion.so/0924c3d52b5d4f518461a33d11735b56">
-    <img src="https://img.shields.io/badge/-Portfolio-00ff00?style=for-the-badge&logo=People&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Portfolio-825794?style=for-the-badge&logo=iconify&logoColor=white"/>
   </a>
 </div>
 <!--
