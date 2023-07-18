@@ -4,7 +4,7 @@
 <h3>😊 About Me</h3>
 
 <div>
- <a href="https://www.notion.so/0924c3d52b5d4f518461a33d11735b56">
+ <a href="https://dusty-coneflower-1cc.notion.site/0924c3d52b5d4f518461a33d11735b56?pvs=4">
     <img src="https://img.shields.io/badge/-Portfolio-825794?style=for-the-badge&logo=iconify&logoColor=white"/>
   </a>
 </div>
