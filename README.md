@@ -3,20 +3,14 @@
 
 <h3>😊 About Me</h3>
 
-<div>
- <a href="https://dusty-coneflower-1cc.notion.site/0924c3d52b5d4f518461a33d11735b56?pvs=4">
-    <img src="https://img.shields.io/badge/-Portfolio-825794?style=for-the-badge&logo=iconify&logoColor=white"/>
-  </a>
-</div>
-<!--
 <a href="https://chaemi720.tistory.com/">
     <img src="https://img.shields.io/badge/-Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
   </a>
   
   <a href="mailto:dearsyjang@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:chaemj97@gmail.com.com""/>
-  </a>
-  --!>                                                                                                         
+</a>
+                                                                                                        
 
 ### 🌱 Education
 | 이름                                            | 내용                          | 기간                          |
